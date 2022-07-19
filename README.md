@@ -1,6 +1,8 @@
 # ctfdMonitor-plugin
 ctfd平台播报推送插件
 
+基于Mirai的一款QQ群消息推送插件
+
 作者：1us
 
 食用方法：下载插件后并进行配置，配置完成后放入plugins文件夹即可。
